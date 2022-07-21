@@ -1,4 +1,5 @@
-Hola, mucho gusto !! Mi nombre es Johan Curicho.
+Hola, mucho gusto !! 
+Mi nombre es Johan Curicho.
 
 -🔭 Actualmente trabajo en soporte Técnico en computadores.
 
