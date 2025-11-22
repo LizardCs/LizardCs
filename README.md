@@ -1,9 +1,11 @@
 <!-- Foto personalizada -->
 <p align="center">
-  <img src="/mnt/data/3554d0c3-ec56-4d08-9952-b2bfbf4411b1.png" 
-       width="100%" 
-       height="180px"
-       alt="banner" />
+  <img 
+    src="https://raw.githubusercontent.com/LizardCs/LizardCs/gh-pages/banner.jpg"
+    width="100%"
+    height="220px"
+    alt="banner"
+  />
 </p>
 
 <h1 align="center">👋 Hola, mucho gusto!!</h1>
