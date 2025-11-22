@@ -1,9 +1,9 @@
 <!-- Foto personalizada -->
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/LizardCs/LizardCs/gh-pages/banner.jpg"
+    src="https://raw.githubusercontent.com/LizardCs/LizardCs/gh-pages/banner.png"
     width="100%"
-    height="220px"
+    height="180px"
     alt="banner"
   />
 </p>
