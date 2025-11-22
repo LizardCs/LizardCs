@@ -8,8 +8,11 @@
   />
 </p>
 
-<h1 align="center">👋 Hola, mucho gusto!!</h1>
-<h2 align="center">Mi nombre es <strong>Johan Curicho</strong></h2>
+<h1 align="center">
+
+  Hola, es un gusto   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  !!
+</h1>
 
 ---
 
